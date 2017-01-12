@@ -1,0 +1,1098 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: SimpleShift\n"
+"POT-Creation-Date: 2016-07-13 10:56-0700\n"
+"PO-Revision-Date: 2016-07-13 10:54-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comments.php:4
+msgid "Comments"
+msgstr ""
+
+#: comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:18
+msgid "Reply"
+msgstr ""
+
+#: comments.php:47
+msgid "Be the first to comment."
+msgstr ""
+
+#: comments.php:67 comments.php:69 functions.php:281
+msgid "Name"
+msgstr ""
+
+#: comments.php:73 comments.php:75 functions.php:282
+msgid "Email"
+msgstr ""
+
+#: comments.php:79 comments.php:81 functions.php:283
+msgid "Website"
+msgstr ""
+
+#: comments.php:90
+msgid "Comment"
+msgstr ""
+
+#: comments.php:92
+msgid "Type your comment here..."
+msgstr ""
+
+#: comments.php:95
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:96
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:98
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: comments.php:101 functions.php:236
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:102
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:103
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:104
+msgid "Submit"
+msgstr ""
+
+#: footer.php:8
+msgid "Powered by"
+msgstr ""
+
+#: functions.php:40
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:130
+msgid "Default Page Sidebar"
+msgstr ""
+
+#: functions.php:132
+msgid "Widgets in this area will be displayed in the sidebar on the pages."
+msgstr ""
+
+#: functions.php:140
+msgid "Default Blog Sidebar"
+msgstr ""
+
+#: functions.php:142
+msgid ""
+"Widgets in this area will be displayed in the sidebar on the blog and posts."
+msgstr ""
+
+#: functions.php:153
+msgid "Alternate Sidebar #"
+msgstr ""
+
+#: functions.php:155
+msgid ""
+"Widgets in this area will be displayed in the sidebar for any posts or pages "
+"that are tagged with sidebar"
+msgstr ""
+
+#: functions.php:235
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:241
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:104
+msgid "Background Color"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:105
+msgid "Background Image"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:106
+msgid "No Repeat"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:107
+msgid "Repeat All"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:108
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:109
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:110
+msgid "Inherit"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:111
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:112
+msgid "Cover"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:113
+msgid "Contain"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:114
+msgid "Background Size"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:115
+msgid "Fixed"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:116
+msgid "Scroll"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:117
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:118
+msgid "Left Top"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:119
+msgid "Left Center"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:120
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:121
+msgid "Right Top"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:122
+msgid "Right Center"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:123
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:124
+msgid "Center Top"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:125
+msgid "Center Center"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:126
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:127
+msgid "Background Position"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:128
+msgid "Background Opacity"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:129
+msgid "ON"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:130
+msgid "OFF"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:131
+msgid "All"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:132
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:133
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:134
+msgid "Devanagari"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:135
+msgid "Greek"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:136
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:137
+msgid "Khmer"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:138
+msgid "Latin"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:139
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:140
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:141
+msgid "Hebrew"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:142
+msgid "Arabic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:143
+msgid "Bengali"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:144
+msgid "Gujarati"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:145
+msgid "Tamil"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:146
+msgid "Telugu"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:147
+msgid "Thai"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:148
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:149
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:150
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:151
+msgid "Font Family"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:152
+msgid "Font Size"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:153
+msgid "Font Weight"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:154
+msgid "Line Height"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:155
+msgid "Font Style"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:156
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:157
+msgid "Top"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:158
+msgid "Bottom"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:159 inc/meta_boxes.php:15
+#: inc/options.php:433
+msgid "Left"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:160 inc/meta_boxes.php:15
+#: inc/options.php:432
+msgid "Right"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:161
+msgid "Center"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:162
+msgid "Justify"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:163
+msgid "Color"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:164
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:448
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:452
+msgid "Add Image"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:165
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:448
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:450
+msgid "Change Image"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:166
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:437
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:442
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:167
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:484
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:488
+msgid "Add File"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:168
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:484
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:486
+msgid "Change File"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:169
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:473
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:478
+msgid "No File Selected"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:170
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:447
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:483
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:502
+msgid "Remove"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:171
+msgid "Select a font-family"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:172
+msgid "Variant"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:173
+msgid "Subset"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:174
+msgid "Size"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:175
+msgid "Height"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:176
+msgid "Spacing"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:177
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:178
+msgid "Ultra-Light 100 Italic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:179
+msgid "Light 200"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:180
+msgid "Light 200 Italic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:181
+msgid "Book 300"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:182
+msgid "Book 300 Italic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:183
+msgid "Normal 400"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:184
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:185
+msgid "Medium 500"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:186
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:187
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:188
+msgid "Semi-Bold 600 Italic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:189
+msgid "Bold 700"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:190
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:191
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:192
+msgid "Extra-Bold 800 Italic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:193
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:194
+msgid "Ultra-Bold 900 Italic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:195
+msgid "Invalid Value"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:196
+msgid "Add new"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:197
+msgid "row"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:198
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:199
+#: inc/kirki/includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:200
+#: inc/kirki/includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:201
+#, php-format
+msgid "%s Reset"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:202
+msgid "Text Align"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:203
+msgid "Text Transform"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:204 inc/meta_boxes.php:15
+msgid "None"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:205
+msgid "Capitalize"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:206
+msgid "Uppercase"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:207
+msgid "Lowercase"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:208
+msgid "Initial"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:209
+msgid "Select a Page"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:210
+msgid "Open Editor"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:211
+msgid "Close Editor"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-l10n.php:212
+msgid "Switch Editor"
+msgstr ""
+
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:412
+msgid "Hex Value"
+msgstr ""
+
+#: inc/meta_boxes.php:18
+msgid "Sidebar Display Options:"
+msgstr ""
+
+#: inc/meta_boxes.php:24
+msgid "Sidebar #:"
+msgstr ""
+
+#: inc/meta_boxes.php:25
+msgid ""
+"Enter the number of the alternate sidebar you would like to apply. Leave "
+"blank to use default."
+msgstr ""
+
+#: inc/options.php:35
+msgid "General Theme Settings"
+msgstr ""
+
+#: inc/options.php:45
+msgid "Text Logo"
+msgstr ""
+
+#: inc/options.php:54
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/options.php:63
+msgid "Top of Homepage Navigation Menu ID"
+msgstr ""
+
+#: inc/options.php:68
+msgid ""
+"The frontpage section IDs (what shows up in the hover state and the address "
+"bar when clicked) have already been set to a default shown in this field. If "
+"you would like to change the ID so that a different term comes up in the "
+"slug for that section (ie. http://example.com/#top instead of /#home), then "
+"change the term below for the corresponding section. You will also want to "
+"add the custom menu items in the Menus section of your dashboard (click "
+"\"Links,\" then add the entire URL, such as http://example.com/#top). "
+"IMPORTANT: You must also add this term to the title field in the menu "
+"editor. If you do not see this field you may have to activate it by "
+"selecting the Screen Options tab in the top right of the page and then "
+"checking the Title Attribute box."
+msgstr ""
+
+#: inc/options.php:73
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/options.php:78
+msgid "Frontpage General Options"
+msgstr ""
+
+#: inc/options.php:89
+msgid "Frontpage Banner Status"
+msgstr ""
+
+#: inc/options.php:94
+msgid "Customizer"
+msgstr ""
+
+#: inc/options.php:95
+msgid "Post/Page"
+msgstr ""
+
+#: inc/options.php:100
+msgid "Frontpage Custom Banner Options"
+msgstr ""
+
+#: inc/options.php:111 inc/options.php:241
+msgid "Row Background Color"
+msgstr ""
+
+#: inc/options.php:116 inc/options.php:246
+msgid "Pick a background color for the row."
+msgstr ""
+
+#: inc/options.php:128 inc/options.php:258
+msgid "Parallax Row Background"
+msgstr ""
+
+#: inc/options.php:136
+msgid "Banner - Main Title"
+msgstr ""
+
+#: inc/options.php:141
+msgid "This is the big text in the banner. Leave blank to hide."
+msgstr ""
+
+#: inc/options.php:146
+msgid "Banner - Sub Title"
+msgstr ""
+
+#: inc/options.php:151
+msgid "This is the smaller text in the banner. Leave blank to hide."
+msgstr ""
+
+#: inc/options.php:156
+msgid "Banner - Button Text"
+msgstr ""
+
+#: inc/options.php:161
+msgid "This is the button in the banner. Leave blank to hide."
+msgstr ""
+
+#: inc/options.php:166
+msgid "Banner - Button Destination URL"
+msgstr ""
+
+#: inc/options.php:171
+msgid "This is the button link destination in the banner."
+msgstr ""
+
+#: inc/options.php:176
+msgid "Frontpage Post/Page Banner Options"
+msgstr ""
+
+#: inc/options.php:187
+msgid "Use Post or Page?"
+msgstr ""
+
+#: inc/options.php:192
+msgid "Use Post"
+msgstr ""
+
+#: inc/options.php:193
+msgid "Use Page"
+msgstr ""
+
+#: inc/options.php:200
+msgid "Choose a Post (from latest 50)"
+msgstr ""
+
+#: inc/options.php:211
+msgid "Choose a Page (from latest 50)"
+msgstr ""
+
+#: inc/options.php:221
+msgid "Banner - Sub Title - Override"
+msgstr ""
+
+#: inc/options.php:226
+msgid ""
+"This is the smaller text in the banner. This will override the automatically "
+"generated exerpt."
+msgstr ""
+
+#: inc/options.php:230
+msgid "Subpage Banner Options"
+msgstr ""
+
+#: inc/options.php:265
+msgid "Header Social Media"
+msgstr ""
+
+#: inc/options.php:276
+msgid "Social Icons Status"
+msgstr ""
+
+#: inc/options.php:281
+msgid "Show"
+msgstr ""
+
+#: inc/options.php:282
+msgid "Hide"
+msgstr ""
+
+#: inc/options.php:288
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/options.php:298
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/options.php:308
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/options.php:318
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/options.php:328
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/options.php:338
+msgid "Vimeo URL"
+msgstr ""
+
+#: inc/options.php:348
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/options.php:358
+msgid "WordPress.com URL"
+msgstr ""
+
+#: inc/options.php:368
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/options.php:378
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/options.php:388
+msgid "Tumblr URL"
+msgstr ""
+
+#: inc/options.php:398
+msgid "Email Address"
+msgstr ""
+
+#: inc/options.php:409
+msgid "Hide RSS Icon"
+msgstr ""
+
+#: inc/options.php:416
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/options.php:427
+msgid "Blog Sidebar Position"
+msgstr ""
+
+#: parts/blog-pagination.php:3
+msgid "... Older Posts"
+msgstr ""
+
+#: parts/blog-pagination.php:6
+msgid "Newer Posts ..."
+msgstr ""
+
+#: parts/companion/frontpage-about.php:31
+msgid "About Us"
+msgstr ""
+
+#: parts/companion/frontpage-about.php:32
+msgid "A little bit of background on our fabulous company."
+msgstr ""
+
+#: parts/companion/frontpage-about.php:33
+msgid ""
+"Uenatis mattis non vitae augue. Nullam congue commodo lorem vitae facilisis. "
+"Suspendisse malesuada id turpis interdum dictum.Cum sociis natoque penatibus."
+msgstr ""
+
+#: parts/companion/frontpage-about.php:36
+msgid "BRAND &amp; IDENTITY"
+msgstr ""
+
+#: parts/companion/frontpage-about.php:36
+#: parts/companion/frontpage-about.php:39
+#: parts/companion/frontpage-about.php:42
+#: parts/companion/frontpage-about.php:45
+msgid ""
+"Praesent faucibus nisl sit amet nulla sollicitudin pretium a sed purus. "
+"Nullam bibendum porta magna."
+msgstr ""
+
+#: parts/companion/frontpage-about.php:39
+msgid "PARALLAX MOTION"
+msgstr ""
+
+#: parts/companion/frontpage-about.php:42
+msgid "QUALITY DESIGN"
+msgstr ""
+
+#: parts/companion/frontpage-about.php:45
+msgid "EXPERT SUPPORT"
+msgstr ""
+
+#: parts/companion/frontpage-action.php:30
+msgid "Call To Action"
+msgstr ""
+
+#: parts/companion/frontpage-action.php:31
+msgid "Convince me why I should take this action."
+msgstr ""
+
+#: parts/companion/frontpage-action.php:32
+#: parts/companion/frontpage-action2.php:24
+msgid "Go For It!"
+msgstr ""
+
+#: parts/companion/frontpage-action2.php:23
+msgid "Call To Action - Convince me why I should take this action."
+msgstr ""
+
+#: parts/companion/frontpage-featured.php:32
+#: parts/companion/frontpage-featured.php:37
+#: parts/companion/frontpage-featured.php:44
+#: parts/companion/frontpage-featured.php:49
+#: parts/companion/frontpage-featured.php:56
+#: parts/companion/frontpage-featured.php:61
+msgid "Sample Page"
+msgstr ""
+
+#: parts/companion/frontpage-featured.php:33
+#: parts/companion/frontpage-featured.php:38
+#: parts/companion/frontpage-featured.php:45
+#: parts/companion/frontpage-featured.php:50
+#: parts/companion/frontpage-featured.php:57
+#: parts/companion/frontpage-featured.php:62
+msgid ""
+"This is an example page. It's different from a blog post because it will "
+"stay in one place and will show up in your site navigation (in most themes)."
+msgstr ""
+
+#: parts/companion/frontpage-news.php:26
+msgid "Latest Articles"
+msgstr ""
+
+#: parts/companion/frontpage-news.php:31
+msgid "Get up to date with the latest news from our newsroom."
+msgstr ""
+
+#: parts/companion/frontpage-social.php:30
+msgid "BitBucket"
+msgstr ""
+
+#: parts/companion/frontpage-social.php:30
+msgid "Follow our code."
+msgstr ""
+
+#: parts/companion/frontpage-social.php:33
+msgid "Twitter"
+msgstr ""
+
+#: parts/companion/frontpage-social.php:33
+msgid "Latest tweets."
+msgstr ""
+
+#: parts/companion/frontpage-social.php:36
+msgid "Facebook"
+msgstr ""
+
+#: parts/companion/frontpage-social.php:36
+msgid "Be our friend."
+msgstr ""
+
+#: parts/companion/frontpage-social.php:39
+msgid "Instagram"
+msgstr ""
+
+#: parts/companion/frontpage-social.php:39
+msgid "See our pics."
+msgstr ""
+
+#: parts/companion/frontpage-social.php:42
+msgid "Linkedin"
+msgstr ""
+
+#: parts/companion/frontpage-social.php:42
+msgid "Let's network."
+msgstr ""
+
+#: parts/companion/frontpage-team.php:41
+msgid "Meet the Team"
+msgstr ""
+
+#: parts/companion/frontpage-team.php:42
+msgid "Showcase the great people behind your company."
+msgstr ""
+
+#: parts/companion/frontpage-team.php:47
+msgid "Sally Brown"
+msgstr ""
+
+#: parts/companion/frontpage-team.php:48
+msgid "CEO and Chair Woman"
+msgstr ""
+
+#: parts/companion/frontpage-team.php:55
+msgid "John Smith"
+msgstr ""
+
+#: parts/companion/frontpage-team.php:56
+msgid "CFO and Mascot"
+msgstr ""
+
+#: parts/companion/frontpage-team.php:63
+msgid "Emma Kline"
+msgstr ""
+
+#: parts/companion/frontpage-team.php:64
+msgid "Vice President"
+msgstr ""
+
+#: parts/companion/frontpage-team.php:71
+msgid "Thomas Baggins"
+msgstr ""
+
+#: parts/companion/frontpage-team.php:72
+msgid "Project Manager"
+msgstr ""
+
+#: parts/companion/frontpage-test.php:33
+msgid "This is the theme of my dreams!"
+msgstr ""
+
+#: parts/companion/frontpage-test.php:34
+msgid ""
+"\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi.\""
+msgstr ""
+
+#: parts/companion/frontpage-test.php:35
+msgid "Lucy McFallon"
+msgstr ""
+
+#: parts/content-blog.php:25
+msgid "by"
+msgstr ""
+
+#: parts/content-single.php:19 parts/content-single.php:49
+msgid "Posted by "
+msgstr ""
+
+#: parts/content-single.php:21 parts/content-single.php:51
+msgid " on "
+msgstr ""
+
+#: parts/error-404.php:3 parts/title.php:29
+msgid "404"
+msgstr ""
+
+#: parts/error-404.php:3
+msgid "The content you are looking for is not available."
+msgstr ""
+
+#: parts/error-no_results.php:1
+msgid "No content matched your request."
+msgstr ""
+
+#: parts/header-banner.php:73
+msgid "Learn More"
+msgstr ""
+
+#: parts/header-menu.php:8
+msgid "Toggle navigation"
+msgstr ""
+
+#: parts/single_post_nav.php:8
+msgid "&laquo; Previous post link"
+msgstr ""
+
+#: parts/single_post_nav.php:17
+msgid "&raquo; Next post link"
+msgstr ""
+
+#: parts/tax_tags.php:9
+msgid "Posted in: "
+msgstr ""
+
+#: parts/title.php:5
+msgid "Page: "
+msgstr ""
+
+#: parts/title.php:21
+msgid "Posts by: "
+msgstr ""
+
+#: parts/title.php:31
+msgid "Results for: "
+msgstr ""
+
+#: parts/wp_link_pages.php:3
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "SimpleShift"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://themeshift.com/free/simpleshift/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"SimpleShift one page WordPress theme offers all the fun and wonderful "
+"features you'd expect to find in a premium theme. Look for a scrolling one "
+"page menu, parallax motion, and business class quality code."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeShift"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeshift.com/"
+msgstr ""

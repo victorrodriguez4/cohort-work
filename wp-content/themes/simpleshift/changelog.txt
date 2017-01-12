@@ -1,0 +1,43 @@
+v1.0.9  - Fixed mobile menu scrollto issue
+
+v1.0.8  - Added TGMPA recommends companion plugin
+
+v1.0.7  - Lowered meta_box priority
+        - Prefixed google font handles
+        - Removed page template option if no companion plugin installed
+        - Migrated upsell button to trt-customizer-pro
+
+v1.0.6  - Removed some unused files
+        - Included non-minified versions of all files
+        - Using wp_script_add_data rather than wp_head
+        - Fixed missing translation functions
+        - Fixed srollbar z-index issue
+        - Removed logic for default images
+        - Added escapes to placeholder text in comments.php
+
+v1.0.5  - Fixed missing escapes
+        - Removed enqueue for jQuery
+        - Small code cleanup edits
+
+v1.0.4  - Fixed meta_box var error
+        - Updated credit link format
+        
+v1.0.3  - Fixed subpage/post banner size
+
+v1.0.2  - Added .pot file in /lang/
+        - Changed: using get_stylesheet_uri
+        - Changed logo now based on site-title
+        - Removed text-logo option from customizer
+        - Removed extra files in /ext/kirki/
+
+v1.0.1  - Switch to Kirki
+        - Update copyright information
+        - Move assets to /assets/
+        - Escape all output
+        - Move frontpage rows to landing page template and move partials into companion dir
+        - Move options for frontpage rows into companion plugin
+        - Remove title
+        - Added support for core title
+        - Added translation support to all public templates
+
+v1.0.0  - Initial Launch 
